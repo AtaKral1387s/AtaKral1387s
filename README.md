@@ -54,15 +54,14 @@
 - مشارکت در پروژه‌های متن‌باز
 
 ---
-### 📊 **آمار گیت‌هاب**
+### 📊 **آمار مفید**
 
-![آمار](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=radical)
 
-![تعداد کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaKral1387s&theme=radical&utcOffset=8)
+![وضعیت فعلی](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=github_dark)
 
-![زبان‌ها](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtaKral1387s&theme=radical)
+![زبان‌ها](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=github_dark)
 
-![کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=radical)
+![کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtaKral1387s&theme=github_dark)
 
 
 ---
