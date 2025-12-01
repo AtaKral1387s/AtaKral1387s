@@ -81,3 +81,87 @@
   **"نبوغ یک درصد الهام و نود و نه درصد عرق ریختنه"** – توماس ادیسون
   
 </div>
+
+<div align="center">
+  
+  ![Ata's Profile Picture](https://avatars.githubusercontent.com/AtaKral1387s?v=4&size=150)
+  
+  # 👋 Hello, I'm Ata
+  
+  ### 🚀 Frontend Designer | Responsive Web Developer
+  
+  **"Coding is my art, and the browser is my canvas"**
+  
+</div>
+
+---
+
+### 🛠 **Technologies & Skills**
+
+- **Languages:** HTML5, CSS3, JavaScript
+- **Responsive Design:** Flexbox, CSS Grid
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** JavaScript, React.js, Next.js
+- **Next Goal:** Full-Stack Development
+
+---
+
+### 🌟 **Featured Project**
+
+#### 🎓 **Istagen** - Computer & Mobile Learning Platform
+- **Website:** [istagen.ir](https://istagen.ir)
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Fully responsive design, simple and efficient UI
+- **Status:** In continuous development and improvement
+
+---
+
+<!-- ### 📊 **GitHub Stats**
+
+<div align="center">
+  
+  ![Ata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtaKral1387s&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtaKral1387s&layout=compact&theme=radical&hide_border=true)
+  
+  ![Code Activity](https://img.shields.io/github/commit-activity/m/AtaKral1387s/AtaKral1387s?color=purple&label=Activity&style=for-the-badge)
+  
+</div>
+
+--- -->
+
+### 📚 **Currently Learning & Developing**
+
+- Deeper study of **JavaScript** (Patterns, Optimization, Architecture)
+- Preparing to start **React** and **Next.js**
+- Building more projects to strengthen my portfolio
+- Contributing to open-source projects
+
+---
+
+### 📱 **Connect With Me**
+
+For collaboration, suggestions, or even a friendly chat about technology:
+
+- **🌐 Website:** [Istagen](https://istagen.ir)
+- **💼 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ata1387s)
+- **📱 Telegram:** [@Age1bat](https://t.me/Age1bat)
+- **📸 Instagram:** [@mr1ata1](https://instagram.com/mr1ata1)
+- **📧 Email:** [mxkral1401@gmail.com](mailto:mxkral1401@gmail.com)
+
+---
+
+### 🔥 **About Me**
+
+- **Passionate about coding** - I love turning ideas into efficient user interfaces!
+- **Music enthusiast** - My constant companion during coding hours
+- **Believer in continuous learning** - The web world is always advancing, and I'm moving forward with it
+- **Ultimate Goal:** Becoming a professional **Full-Stack** developer
+
+---
+
+<div align="center">
+  
+  **"Genius is one percent inspiration and ninety-nine percent perspiration"** – Thomas Edison
+  
+</div>
