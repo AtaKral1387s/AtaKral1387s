@@ -31,43 +31,13 @@
 - **وضعیت:** در حال توسعه و بهبود مستمر
 
 ---
+### 📊 **آمار گیت‌هاب**
 
-### 📊 **آمار مفید**
+![جزئیات پروفایل](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=github_dark)
 
+![زبان‌های برتر](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=github_dark)
 
-![وضعیت فعلی](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=github_dark&locale=fa)
-
-![زبان‌های پرکاربرد](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=github_dark&locale=fa)
-
-![آمار فعالیت](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtaKral1387s&theme=github_dark&locale=fa)
-
-![ساعات فعال](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaKral1387s&theme=github_dark&locale=fa&utcOffset=3.5)
-
-![ریپازیتوری براساس زبان](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtaKral1387s&theme=github_dark&locale=fa)
-
-
----
-
-### 📈 **معنی این متریک‌ها**
-
-| متریک | توضیح |
-|-------|-------|
-| **مجموع کامیت‌ها** | تعداد کل تغییرات کد |
-| **ایسویو‌های باز** | مشکلات در حال پیگیری |
-| **پول ریکوئست‌ها** | درخواست‌های ادغام ارسال شده |
-| **ریپازیتوری‌ها** | تعداد پروژه‌ها |
-| **زبان‌های پرکاربرد** | تکنولوژی‌های اصلی استفاده شده |
-| **ساعات پربازده** | زمان‌های اوج کدزنی |
-
----
-
-### 💡 **نکته مهم درباره آمارها**
-
-> "این آمار فقط **فعالیت** را نشان می‌دهند، نه **مهارت واقعی** را!  
-> یک پروژه عملی مثل **ایستاژن** از هزاران کامیت بی‌معنی ارزش بیشتری دارد."
-
-[![ایستاژن - پروژه اصلی](https://img.shields.io/badge/🚀_پروژه_اصلی-istagen.ir-blue)](https://istagen.ir)
-[![کد واقعی](https://img.shields.io/badge/💻_کد_واقعی-GitHub-black)](https://github.com/AtaKral1387s)
+![آمار فعالیت](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtaKral1387s&theme=github_dark)
 
 ---
 
@@ -139,43 +109,13 @@
 - **Status:** In continuous development and improvement
 
 ---
-### 📊 **Useful Statistics**
+### 📊 **GitHub Stats**
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=github_dark)
 
-![Current Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=github_dark)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=github_dark)
 
 ![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtaKral1387s&theme=github_dark)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaKral1387s&theme=github_dark&utcOffset=3.5)
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtaKral1387s&theme=github_dark)
-
-
----
-
-### 📈 **What These Metrics Mean**
-
-| Metric | Description |
-|--------|-------------|
-| **Total Commits** | Total number of code changes |
-| **Open Issues** | Currently tracked problems |
-| **Pull Requests** | Merge requests submitted |
-| **Repositories** | Number of projects |
-| **Most Used Languages** | Primary technologies used |
-| **Productive Hours** | Peak coding times |
-
----
-
-### 💡 **Important Note About Statistics**
-
-
-> "These stats only show **activity**, not **actual skill**!  
-> One practical project like **Istagen** is worth more than thousands of meaningless commits."
-
-[![Istagen - Main Project](https://img.shields.io/badge/🚀_Main_Project-istagen.ir-blue)](https://istagen.ir)
-[![Real Code](https://img.shields.io/badge/💻_Real_Code-GitHub-black)](https://github.com/AtaKral1387s)
 
 ---
 
