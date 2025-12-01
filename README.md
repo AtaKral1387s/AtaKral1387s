@@ -1,17 +1,3 @@
-### 📊 **آمار گیت‌هاب**
-
-<div align="center">
-
-![آمار](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=radical)
-
-![تعداد کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaKral1387s&theme=radical&utcOffset=8)
-
-![زبان‌ها](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtaKral1387s&theme=radical)
-
-![کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=radical)
-
-</div>
-
 <div align="center">
   
   ![عکس پروفایل عطا](https://avatars.githubusercontent.com/AtaKral1387s?v=4&size=150)
@@ -67,6 +53,20 @@
 - ساخت پروژه‌های بیشتر برای تقویت رزومه
 - مشارکت در پروژه‌های متن‌باز
 
+---
+### 📊 **آمار گیت‌هاب**
+
+<div align="center">
+
+![آمار](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=radical)
+
+![تعداد کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaKral1387s&theme=radical&utcOffset=8)
+
+![زبان‌ها](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtaKral1387s&theme=radical)
+
+![کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=radical)
+
+</div>
 ---
 
 ### 📱 **ارتباط با من**
