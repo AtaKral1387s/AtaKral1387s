@@ -56,8 +56,6 @@
 ---
 ### 📊 **آمار گیت‌هاب**
 
-<div align="center">
-
 ![آمار](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=radical)
 
 ![تعداد کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaKral1387s&theme=radical&utcOffset=8)
@@ -66,7 +64,7 @@
 
 ![کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=radical)
 
-</div>
+
 ---
 
 ### 📱 **ارتباط با من**
