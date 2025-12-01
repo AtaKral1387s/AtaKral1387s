@@ -1,7 +1,15 @@
+### 📊 **آمار گیت‌هاب**
+
 <div align="center">
-  
-  ![Snake Animation](https://github.com/AtaKral1387s/AtaKral1387s/blob/output/github-contribution-grid-snake.svg)
-  
+
+![آمار](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtaKral1387s&theme=radical)
+
+![تعداد کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaKral1387s&theme=radical&utcOffset=8)
+
+![زبان‌ها](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtaKral1387s&theme=radical)
+
+![کامیت‌ها](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtaKral1387s&theme=radical)
+
 </div>
 
 <div align="center">
