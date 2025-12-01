@@ -84,7 +84,6 @@
 
 <div align="center">
   
-  ![Ata's Profile Picture](https://avatars.githubusercontent.com/AtaKral1387s?v=4&size=150)
   
   # 👋 Hello, I'm Ata
   
