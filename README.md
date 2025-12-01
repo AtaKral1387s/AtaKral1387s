@@ -1,5 +1,11 @@
 <div align="center">
   
+  ![Snake Animation](https://github.com/AtaKral1387s/AtaKral1387s/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  
   ![عکس پروفایل عطا](https://avatars.githubusercontent.com/AtaKral1387s?v=4&size=150)
   
   # 👋 سلام، من عطا هستم
